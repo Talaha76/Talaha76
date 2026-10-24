@@ -91,22 +91,6 @@ A full-stack application for employee record management, designed with usability
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 💼 Experience
-
-| Role | Highlights |
-| :--- | :--- |
-| **Software Engineering Intern** · Achev · Jul 2024 – Aug 2025 | Built a React/Node.js/PostgreSQL booking application for **100+ ESL students**; replaced manual scheduling and saved **~25 hours/week**. Added REST API tests with Jest and Supertest and built secure data-export/deletion tools. |
-| **Project Coordinator** · NorthHacks · Oct 2023 – Apr 2024 | Coordinated a **200-person, 36-hour hackathon** with **20+ teams**, streamlined operations across Devpost, Discord, and Notion, and reduced participant support requests by **~40%**. |
-
-## 🎓 Education & Certifications
-
-**York University** — Bachelor's in Computer Science  
-Relevant coursework: Data Structures, Software Design, Database Systems, Computer Organization, Operating System Fundamentals.
-
-**Certifications:** Supervised Machine Learning (University of Waterloo) · Microsoft IT Support Specialist · Relational Databases
-
----
-
 <div align="center">
 
 ### Let's Connect
